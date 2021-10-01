@@ -1,0 +1,47 @@
+
+# 생성: https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
+# https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode에서 편집
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-작업 공간
+
+# Visual Studio Code의 로컬 기록
+.역사/
+
+### VisualStudioCode 패치 ###
+# 파일의 모든 로컬 기록 무시
+.역사
+.이오나이드
+
+### 윈도우 ###
+# Windows 썸네일 캐시 파일
+Thumbs.db
+Thumbs.db:암호화 가능
+ehthumbs.db
+ehthumbs_vista.db
+
+# 덤프 파일
+*.스택 덤프
+
+# 폴더 설정 파일
+[Dd]esktop.ini
+
+# 파일 공유에 사용되는 휴지통
+$RECYCLE.BIN/
+
+# 윈도우 인스톨러 파일
+*.택시
+*.msi
+*.msix
+*.msm
+*.msp
+
+# 윈도우 단축키
+*.lnk
+
+# https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode 끝
